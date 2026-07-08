@@ -1,0 +1,23 @@
+The COSTAR Framework is one of the most effective formulas for writing high-quality prompts for AI. Think of it as a checklist that ensures you give the AI all the necessary context to get the exact answer you want on the first try.
+Here is what COSTAR stands for, explained simply:
+ C – Context: Give the AI the background story or situation.
+ O – Objective: Tell the AI exactly what task it needs to perform.
+ S – Style: Define the tone or writing style you want (e.g., professional, funny, simple).
+ T – Tone:Set the emotional feeling of the response (e.g., enthusiastic, serious, empathetic).
+ A – Audience:Tell the AI who will be reading or listening to the final output so it can tailor the language.
+ R – Response:Decide the format of the output (e.g., a paragraph, bullet points, a table, or HTML code).
+ A Simple Example: Planning a Workout
+Imagine you want a workout plan.
+  A Bad Prompt (No Framework):
+"Give me a leg workout."
+ 
+Why it's bad: The AI doesn't know if you are a beginner, if you are at a gym, or if you want a 10-minute or 2-hour routine.
+A COSTAR Prompt:
+Context: I am a fitness enthusiast who enjoys heavy strength training and compound movements like squats, but I only have 45 minutes to work out today at a fully equipped gym.
+Objective: Create a high-intensity lower body workout routine.
+Style: Clear, instructional, and structured.
+Tone: Motivating and energetic.
+Audience:Designed for someone who already knows proper gym form.
+Response Format: A clean bulleted list with exercises, sets, and reps.
+Why This Works
+By using COSTAR, you stop guessing what the AI will say. Instead of a generic list of random leg exercises, the AI will now give you a highly targeted, 45-minute heavy lifting routine formatted exactly how you want it.
