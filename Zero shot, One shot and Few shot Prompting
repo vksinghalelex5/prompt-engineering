@@ -1,0 +1,19 @@
+Zero shot prompting: In Zero shot prompting, we don't give any example.
+We give a direct command and expect the AI to know how to do it instantly based on its general knowledge. Simple,Straightforward tasks like basic translations or standard questions. 
+E.g.,"Tell me the opposite 'Happy'." ( Output : Sad)
+
+One Shot Prompting: In one shot prompting, we give only one example. 
+We show the AI exactly one example of the desired format or style so it can mimic it. When you need the output to follow a specific structure or tone.
+Good- Bad
+Up-
+Output: Down 
+
+Few Shot Prompting:
+In few shot prompting, we give AI two or more than two examples. We feed the AI multiple examples to help it recognize a complex pattern or a tricky rule before it answers.
+It is used for complex tasks,strict formatting, or teaching the AI a unique logic. 
+
+Apple:Fruit
+Carrot: Vegetable
+Chicken: Meat
+Broccoli:
+(Output: Vegetable)
